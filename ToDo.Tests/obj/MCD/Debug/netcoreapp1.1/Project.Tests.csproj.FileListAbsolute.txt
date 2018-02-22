@@ -1,0 +1,14 @@
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Project.Tests.deps.json
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Project.Tests.runtimeconfig.json
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Project.Tests.runtimeconfig.dev.json
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Project.Tests.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\Project.Tests.pdb
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\ToDo.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\bin\MCD\Debug\netcoreapp1.1\ToDo.pdb
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\obj\MCD\Debug\netcoreapp1.1\Project.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\obj\MCD\Debug\netcoreapp1.1\Project.Tests.AssemblyInfo.cs
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\obj\MCD\Debug\netcoreapp1.1\Project.Tests.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo.Tests\obj\MCD\Debug\netcoreapp1.1\Project.Tests.pdb

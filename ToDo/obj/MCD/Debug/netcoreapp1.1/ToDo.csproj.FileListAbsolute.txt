@@ -1,0 +1,9 @@
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\bin\MCD\Debug\netcoreapp1.1\ToDo.deps.json
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\bin\MCD\Debug\netcoreapp1.1\ToDo.runtimeconfig.json
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\bin\MCD\Debug\netcoreapp1.1\ToDo.runtimeconfig.dev.json
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\bin\MCD\Debug\netcoreapp1.1\ToDo.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\bin\MCD\Debug\netcoreapp1.1\ToDo.pdb
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\obj\MCD\Debug\netcoreapp1.1\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\obj\MCD\Debug\netcoreapp1.1\ToDo.AssemblyInfo.cs
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\obj\MCD\Debug\netcoreapp1.1\ToDo.dll
+C:\Users\Dr. Muhammad Naeem\Documents\GitHub\todo.solutions\ToDo\obj\MCD\Debug\netcoreapp1.1\ToDo.pdb
